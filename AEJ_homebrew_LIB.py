@@ -7,27 +7,33 @@ import os
 class admin:
     """
     A class that helps deal with administrative/logistical issues concerning
-    computer organization.
+    computer/file organization.
     
-    Good luck.
+    'Good luck, brave Sir Lancelot. God be with you.'-King Arthur
     """
+
+
+
     
-    def check_folders( path, make_um=True ):
-        # split path up and check if exists and create necessary paths
-        if '/' in path:
-            parts = path.split( '/' )
-        else:
-            parts = path.split('\\')
-        if make_um:
-            # recombine path by parts and create necessary folders    
-            for idx in range( len(parts) ):
-                # skip if checking that '..' exists
-                if parts[idx] != '..' or parts[idx] != '.':
-                    recon_path = '/'.join( parts[:idx+1] ) # reconstruct path in parts
-                    # if reconstructed path does not exist, make it!
-                    if not os.path.isdir( recon_path ):
-                        os.mkdir( recon_path )
-                        # do this for all paths.
+def check_folders( path, make_um=True ):
+    # split path up and check if exists and create necessary paths
+    if '/' in path:
+        parts = path.split( '/' )
+    else:
+        parts = path.split('\\')
+    if make_um:
+        # recombine path by parts and create necessary folders    
+        for idx in range( len(parts) ):
+            # skip if checking that '..' exists
+            if parts[idx] != '..' or parts[idx] != '.':
+                recon_path = '/'.join( parts[:idx+1] ) # reconstruct path in parts
+                # if reconstructed path does not exist, make it!
+                if not os.path.isdir( recon_path ):
+                    os.mkdir( recon_path )
+                    # do this for all paths.
+#=============================
+    
+    
 
 
 

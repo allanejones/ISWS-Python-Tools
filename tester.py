@@ -23,6 +23,5 @@ Created on Tue Nov 12 13:41:23 2019
 import AEJ_homebrew_LIB as hbl
 hbl.hellos( 3 )
 
-
-# further testing of functions
+# further testing of admin functions
 hbl.admin.check_folders( '../Test Folder/AEJ/' )
