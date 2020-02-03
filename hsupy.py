@@ -88,7 +88,7 @@ def translate_data2dictionary( datavar ):
             
             # loop items in row of HSU dataset/sheet, exclude header
             for item in entry[1:]:
-                if item == '-1.#QNAN0e+000':
+                if item == '-1.#QNAN0e+000' or item == '1.#QNAN0e+000':
                     data_array.append( np.nan )
                 else: 
                     
