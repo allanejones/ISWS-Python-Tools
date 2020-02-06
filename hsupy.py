@@ -13,7 +13,7 @@ import numpy as np
 import pandas as pd
 
 # import homebrewed functions
-from AEJ_homebrew_LIB import check_folders
+from adminpy import check_folders
 
 #%% INSERT FUNCTIONS TO AUTOMATE THE READING/PARSING OF HSU SUMMARY FILES
 
