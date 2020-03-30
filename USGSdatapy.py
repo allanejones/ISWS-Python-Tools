@@ -20,15 +20,12 @@ def read_tab_separated_USGS(filename=None, filepath=None):
     # assumes current working directory if no filepath specified
     if filepath is None:
         filepath = os.getcwd()
-    # ensure file path ends in a '/' or '\\'
-    if filepath[-1] != '/' or filepath[-1] != '\\':
-        filepath += '/'
     #create a dictionary for storage, eventual conversion to pd.df
     data = {}
     usgsdoc = []
     
     # open text file and read in the data
-    with open(filepath+filename, 'r+') as fid:
+    with open( os.path.join(filepath, filename), 'r+') as fid:
         # read through the each line
         for line in fid.readlines():
             # removing the break line character ('\n') from analysis
@@ -125,14 +122,14 @@ class USGSdata:
                        '1. "" (Press Enter) -> enter nothing to reuse same filename/path\n'+
                        '2. "no" -> enter "no" to abort file save\n'+
                        '3. "[Insert file name]" -> enter desired filename/path\n'+
-                       'Type here: ')
+                       'Type below: \n')
         print() # add a spacer line...
         # respond to prompt
         if savefile.lower() == 'no':
             return # exit the function without doing anything
         elif len( savefile ) == 0:
             # use the same file name
-            savefile = self.__fn
+            savefile = os.path.join(self.__fp, self.__fn)
             savefile = savefile.split('.')[:-1]
             savefile.append( 'json' )
             savefile = '.'.join( savefile )
@@ -151,13 +148,14 @@ class USGSdata:
 
 # **private** - method reads data from .json file
     def __get_data_from_json(self):
-        self.data = pd.read_json( self.__fn, orient='table', typ='frame' )
+        self.data = pd.read_json( os.path.join(self.__fp,self.__fn), 
+                                  orient='table', typ='frame' )
         print('Data read from file: {}'.format( self.__fn.split('/')[-1]) )
     
 # **private** - method reads data from .txt file during initiation of class    
     def __get_data_from_tab_separated(self):
-        self.data = read_tab_separated_USGS( self.__fn.split('/')[-1], self.__fp )
-        print('Data read from tab-separated file: {}'.format(self.__fn.split('/')[-1]) )
+        self.data = read_tab_separated_USGS( self.__fn, self.__fp )
+        print('Data read from tab-separated file: {}'.format( os.path.join(self.__fp, self.__fn)) )
         # write to .json file
         self.__write_to_json()
 
@@ -184,7 +182,7 @@ class USGSdata:
                        break # found match no need to search further
 
             # recording the filename and path
-            self.__fn = filepath + filename
+            self.__fn = filename
             
             # use filename and path to read in the data
             if self.__fn.split('.')[-1] == 'json':
