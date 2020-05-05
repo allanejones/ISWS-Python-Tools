@@ -80,7 +80,7 @@ def obtain_historic_USGS_gw(fn, param='72019' ):
     
      # param = Depth to Water from surface elevation
     # imports <-- may be unnecessary
-    import urllib, json
+    import urllib
     import pandas as pd
     
     # open the provided file and obtain data from the file
