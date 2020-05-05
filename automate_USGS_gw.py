@@ -13,6 +13,22 @@ Created on Tue May  5 08:59:39 2020
 """
 
 def parse_historic_USGS_tabDelimited(usgsstr):
+    """
+    
+    Reads the tab-delimiated USGS downlaods and returns a dicationary of the 
+    siteNumber, time stamps, and measurements.
+
+    Parameters
+    ----------
+    usgsstr : string
+        The data from the USGS tab-delimited data sheet as a string.
+
+    Returns
+    -------
+    outdict : dictionary
+        A dictionary containing the data from the tab-delimited downloads.
+
+    """
     
     # create dictionary to return data
     outdict={'siteNum':[],
@@ -30,7 +46,37 @@ def parse_historic_USGS_tabDelimited(usgsstr):
     return outdict
 
 
-def obtain_historic_USGS_gw(fn, param='72019' ): # url='default',
+def obtain_historic_USGS_gw(fn, param='72019' ):
+    """
+    
+    Scraps data from online USGS server (tab-delimited format) for multiple
+    sites and returns a pandas.DataFrame of the data.
+    
+    Desired sites are read from a csv file that can be created from a USGS
+    NWIS mapper query.
+    
+    Example:
+        https://maps.waterdata.usgs.gov/mapper/nwisquery.html?URL=https://nwis.waterdata.usgs.gov/usa/nwis/gwlevels?state_cd=il&nw_longitude_va=-90.263&nw_latitude_va=38.893&se_longitude_va=-89.985&se_latitude_va=38.507&coordinate_format=decimal_degrees&format=sitefile_output&sitefile_output_format=xml&column_name=agency_cd&column_name=site_no&column_name=station_nm&date_format=YYYY-MM-DD&rdb_compression=file&list_of_search_criteria=state_cd%2Clat_long_bounding_box&column_name=site_tp_cd&column_name=dec_lat_va&column_name=dec_long_va&column_name=agency_use_cd
+
+        - Export sites from the above link as a csv.
+
+    Parameters
+    ----------
+    fn : string
+        A filepath including the filename.
+    param : string, optional
+        The USGS parameter code for the datatype to be downloaded. The 
+        default is '72019', which corresponds to "depth to water from land
+        surface elevation."
+
+    Returns
+    -------
+    pandas.DataFrame
+        A pd.DataFrame that includes the site number, time stamp, measurement
+        value, site name, site longitude and site latitude for all 
+        measurements.
+
+    """
     
      # param = Depth to Water from surface elevation
     # imports <-- may be unnecessary
