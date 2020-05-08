@@ -45,6 +45,60 @@ def parse_historic_USGS_tabDelimited(usgsstr):
     # after completing loop, return dictionary
     return outdict
 
+def convert_LatLong_to_Lambert( lat, long ):
+    """
+    Converts a pandas.Series of latitude and longitude data into LambertConical
+    data (in feet) which are returned as pandas.Series to user.
+
+    Parameters
+    ----------
+    lat  : pandas.Series
+        Latitude data input as a pandas.Series. Assumed coordinate reference
+        system (CRS) is 'WGS84'.
+    long : pandas.Series
+        Longitude data input as a pandas.Series. Assumed coordinate reference
+        system (CRS) is 'WGS84'.
+
+    Returns
+    -------
+    Lam_x_ft : pandas.Series
+        Converted longitude data in Lambert CRS with units of feet.
+    Lam_y_ft : pandas.Series
+        Converted latitude data in Lambert CRS with units of feet.
+
+    """
+    
+    #imports 
+    import cartopy.crs as ccrs
+    import pandas as pd
+    # conversion
+    ft2m = 0.304800609601219
+    m2ft = 1/ft2m
+    # finalizing the ISWS Lambert projection
+    false_east = 2999994.0 * ft2m # feet to meters?
+    false_north = -50.0 * ft2m # meters -> fudge factor to realign shapefile with basemap.
+    illimap = ccrs.LambertConformal( false_easting=false_east,
+                                     false_northing=false_north,
+                                     central_longitude=-89.50,
+                                     central_latitude=33.00,
+                                     standard_parallels=(33,45) )
+    # define USGS coordinate system
+    src_crs = ccrs.Geodetic()
+    # transform points from within dataframe
+    Lam_x_m = pd.Series(1e-36, index=long.index ) # storage variable
+    Lam_y_m = pd.Series(1e-36, index=lat.index )  # storage variable
+    for idx in long.index:
+        Lam_x_m.loc[idx], Lam_y_m.loc[idx] = \
+            illimap.transform_point( long.loc[idx], 
+                                     lat.loc[idx], 
+                                     src_crs)
+    # convert to ft
+    Lam_x_ft = Lam_x_m*m2ft
+    Lam_y_ft = Lam_y_m*m2ft
+    # return the DataFrame
+    return Lam_x_ft, Lam_y_ft
+
+
 
 def obtain_historic_USGS_gw(fn, param='72019' ):
     """
@@ -110,7 +164,7 @@ def obtain_historic_USGS_gw(fn, param='72019' ):
     # create output dictionary --> convert to pd.DataFrame when return
     outdict = {'SiteNum': [],
                'DateTime': [],
-               'Value': [],
+               'DTW_Value': [],
                'SiteName': [],
                'SiteLongitude': [],
                'SiteLatitude': []
@@ -131,26 +185,88 @@ def obtain_historic_USGS_gw(fn, param='72019' ):
                 outdict['SiteNum'].append( site )
                 outdict['DateTime'].append( pd.to_datetime( parsed['date'][iii], 
                                                             format='%Y-%m-%d' ) )
-                outdict['Value'].append( float(parsed['value'][iii]) )
+                outdict['DTW_Value'].append( float(parsed['value'][iii]) )
                 outdict['SiteName'].append( csvdict[site][0] )
                 outdict['SiteLongitude'].append( float(csvdict[site][3]) )
                 outdict['SiteLatitude'].append( float(csvdict[site][4]) )
+    # convert the spatial points from LatLong to Lambert
+    outdf = pd.DataFrame(outdict)
+    outdf['Lam_x_ft'], outdf['Lam_y_ft'] = convert_LatLong_to_Lambert(
+            outdf['SiteLatitude'], outdf['SiteLongitude'] )
     # return the final data
-    return pd.DataFrame( outdict )
+    return outdf
                 
         
     
+#%% PLOTTING FUNCTIONS
 
+def plot_pertinent_USGS_1to1( ax, mf, df, hds, yr, kper=0 ):
+    """
+    Plots the pertinent USGS data for a 1:1 plot comparing observed and modeled
+    head data for the ESL area.
 
+    Parameters
+    ----------
+    ax : matplotlib axes
+        The axws where USGS data is to be plotted
+    mf : flopy.modflow.mf.Modflow object
+        Flopy.modflow object that contains a "complete" (i.e., fully 
+        initialized) model.
+    df : pandas.DataFrame
+        A pandas DataFrame that contains the downloaded USGS hand measurement 
+        data downloaded from online.
+    hds : numpy.ndarray of modeled heads from completed model run
+        This array provided the head data from a completed model run. The shape
+        of this array is (npers, nlays, nrows, ncols).
+    yr : int, float, string 
+        The desired year of plotting data, from 01 Jan. 'yr' to 31 Dec. 'yr'+1.
+    kper : int
+        The desired stress period to plot. 
 
+    Returns
+    -------
+    None. --> Plots information onto a provided axis.
 
-
-
-#%% test the function
-#imports
-import os
-# identify USGS .csv file
-path  = '../../USGS GW dnlds'
-filen = 'NWISMapperExport.csv'
-# test the function
-test = obtain_historic_USGS_gw( os.path.join(path, filen) )
+    """
+    
+    # import
+    import pandas as pd
+    import numpy as np
+    import flopy
+    # obtain pertinent data
+    yr = int(yr)
+    idx = ( (df['DateTime'] >= pd.to_datetime(yr,   format='%Y')) & 
+            (df['DateTime'] <  pd.to_datetime(yr+1, format='%Y')) )
+    # if no data found, break method
+    if not idx.any():
+        print('ISWS Update: USGS data not found for year of {}.'.format(yr))
+        return
+    # if data found, continue on...
+    pertdata = df.loc[idx, :]
+    # obtain model data
+    d = mf.get_package( 'DIS' ) # discretization package
+    e = mf.modelgrid.top_botm # model elevations
+    # create storage variables
+    obs_head     = -1e36*np.ones( (pertdata.shape[0],) )
+    modeled_head = -1e36*np.ones( (pertdata.shape[0],) )
+    # loop through and process pertinent values
+    for iii, idx in enumerate(pertdata.index):
+        try:
+            # find rc    
+            rrr, ccc = d.get_rc_from_node_coordinates( pertdata.loc[idx, 'Lam_x_ft'],
+                                                       pertdata.loc[idx, 'Lam_y_ft'], 
+                                                       local=False )
+            # find surface elevations --> calculate USGS heads
+            cur_e = e[0, rrr, ccc]
+            obs_head[iii]     = cur_e-pertdata.loc[idx,'DTW_Value']
+            modeled_head[iii] = hds[kper,0,rrr,ccc]
+        except:
+            # site not found, continue to next
+            obs_head[iii]     = np.nan
+            modeled_head[iii] = np.nan
+    # ^^^ data found and saved in pertinent DF ^^^
+    # compare against modeled heads
+    ax.plot( obs_head, modeled_head, marker='^', ms=10, color='forestgreen',
+             label='USGS hand measurements')
+    # function complete
+    return
