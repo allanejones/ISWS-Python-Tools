@@ -45,7 +45,7 @@ def parse_historic_USGS_tabDelimited(usgsstr):
     # after completing loop, return dictionary
     return outdict
 
-def convert_LatLong_to_Lambert( lat, long ):
+def convert_LatLong_to_Lambert( lat, long, reverse=False ):
     """
     Converts a pandas.Series of latitude and longitude data into LambertConical
     data (in feet) which are returned as pandas.Series to user.
@@ -83,15 +83,22 @@ def convert_LatLong_to_Lambert( lat, long ):
                                      central_latitude=33.00,
                                      standard_parallels=(33,45) )
     # define USGS coordinate system
-    src_crs = ccrs.Geodetic()
+    USGS_crs = ccrs.Geodetic()
+    # determine which crs should be first <-- !!! NEW !!!
+    if reverse:
+        desired_crs = USGS_crs
+        src_crs = illimap
+    else:
+        desired_crs = illimap
+        src_crs = USGS_crs
     # transform points from within dataframe
     Lam_x_m = pd.Series(1e-36, index=long.index ) # storage variable
     Lam_y_m = pd.Series(1e-36, index=lat.index )  # storage variable
     for idx in long.index:
         Lam_x_m.loc[idx], Lam_y_m.loc[idx] = \
-            illimap.transform_point( long.loc[idx], 
-                                     lat.loc[idx], 
-                                     src_crs)
+            desired_crs.transform_point( long.loc[idx], 
+                                         lat.loc[idx], 
+                                         src_crs)
     # convert to ft
     Lam_x_ft = Lam_x_m*m2ft
     Lam_y_ft = Lam_y_m*m2ft
