@@ -45,7 +45,44 @@ import os
 #                 break
 # #=============================
     
-    
+
+def MakeEntirePath( p ):
+    """
+    Checks for existence of desired path/directory and creates all necessary
+    segments of that path.
+
+    Parameters
+    ----------
+    p : string
+        Desired save path.
+
+    Returns
+    -------
+    None.
+
+    """
+    # imports 
+    import os
+    # properly split path into parts
+    if '/' in p and '\\' in p:
+        p = p.split('/')
+        for n, i in enumerate( p ):
+            if '\\' in i:
+                p.remove(i)
+                for m, j in enumerate(i.split('\\')):
+                    p.insert(n+m, j)
+    elif '/' in p:
+        p = p.split('/')
+    elif '\\' in p:
+        p = p.split('\\')
+    # combine, check, and make paths one at a time
+    a = ''
+    for i in p:
+        a = os.path.join(a,i)
+        if not os.path.exists(a):
+            os.mkdir(a)
+    # return the useful data
+    return
 
 
 
