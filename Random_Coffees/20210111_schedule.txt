@@ -1,0 +1,510 @@
+Week of 11-Jan-2021
+Walt Kelly (wkelly@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Vlad Iordache (iordach1@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+
+
+
+Week of 18-Jan-2021
+Daniel Abrams (dbabrams@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Vlad Iordache (iordach1@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+
+
+
+Week of 25-Jan-2021
+Conor Healy (healy19@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+
+
+
+Week of 01-Feb-2021
+Walt Kelly (wkelly@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+Vlad Iordache (iordach1@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+
+
+
+Week of 08-Feb-2021
+Tyler Pierson (tylerjp@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+
+
+
+Week of 15-Feb-2021
+Jennie Atkins (jatkins@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+
+
+
+Week of 22-Feb-2021
+Jennie Atkins (jatkins@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+
+
+
+Week of 01-Mar-2021
+George Roadcap (roadcap@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+Vlad Iordache (iordach1@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+
+
+
+Week of 08-Mar-2021
+Dan Hadley (drhadley@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+
+
+
+Week of 15-Mar-2021
+Devin Mannix (mannix@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Vlad Iordache (iordach1@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+
+
+
+Week of 22-Mar-2021
+Allan Jones (alljones@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+
+
+
+Week of 29-Mar-2021
+Dan Hadley (drhadley@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+
+
+
+Week of 05-Apr-2021
+Tyler Pierson (tylerjp@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Vlad Iordache (iordach1@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+
+
+
+Week of 12-Apr-2021
+Steve Wilson (sdwilson@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+
+
+
+Week of 19-Apr-2021
+Conor Healy (healy19@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+
+
+
+Week of 26-Apr-2021
+Michael Krasowski (krasows2@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+
+
+
+Week of 03-May-2021
+Tyler Pierson (tylerjp@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Vlad Iordache (iordach1@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+
+
+
+Week of 10-May-2021
+Vlad Iordache (iordach1@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+
+
+
+Week of 17-May-2021
+Vlad Iordache (iordach1@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+
+
+
+Week of 24-May-2021
+Allan Jones (alljones@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+
+
+
+Week of 31-May-2021
+Jennie Atkins (jatkins@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+
+
+
+Week of 07-Jun-2021
+Devin Mannix (mannix@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+
+
+
+Week of 14-Jun-2021
+Jennie Atkins (jatkins@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+Vlad Iordache (iordach1@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+
+
+
+Week of 21-Jun-2021
+Daniel Abrams (dbabrams@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+
+
+
+Week of 28-Jun-2021
+Walt Kelly (wkelly@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+
+
+
+Week of 05-Jul-2021
+Conor Healy (healy19@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+
+
+
+Week of 12-Jul-2021
+Devin Mannix (mannix@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+
+
+
+Week of 19-Jul-2021
+Steve Wilson (sdwilson@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+
+
+
+Week of 26-Jul-2021
+Walt Kelly (wkelly@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+
+
+
+Week of 02-Aug-2021
+Vlad Iordache (iordach1@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+
+
+
+Week of 09-Aug-2021
+Daniel Abrams (dbabrams@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+
+
+
+Week of 16-Aug-2021
+George Roadcap (roadcap@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Vlad Iordache (iordach1@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+
+
+
+Week of 23-Aug-2021
+Tyler Pierson (tylerjp@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+
+
+
+Week of 30-Aug-2021
+Allan Jones (alljones@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+
+
+
+Week of 06-Sep-2021
+Vlad Iordache (iordach1@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+
+
+
+Week of 13-Sep-2021
+Conor Healy (healy19@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Vlad Iordache (iordach1@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+
+
+
+Week of 20-Sep-2021
+Allan Jones (alljones@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+
+
+
+Week of 27-Sep-2021
+Allan Jones (alljones@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Vlad Iordache (iordach1@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+
+
+
+Week of 04-Oct-2021
+Vlad Iordache (iordach1@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+
+
+
+Week of 11-Oct-2021
+Tyler Pierson (tylerjp@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+
+
+
+Week of 18-Oct-2021
+George Roadcap (roadcap@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Vlad Iordache (iordach1@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+
+
+
+Week of 25-Oct-2021
+Michael Krasowski (krasows2@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Vlad Iordache (iordach1@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+
+
+
+Week of 01-Nov-2021
+Walt Kelly (wkelly@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+
+
+
+Week of 08-Nov-2021
+Jennie Atkins (jatkins@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+
+
+
+Week of 15-Nov-2021
+Tyler Pierson (tylerjp@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Vlad Iordache (iordach1@illinois.edu) -- Dan Hadley (drhadley@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+
+
+
+Week of 22-Nov-2021
+Devin Mannix (mannix@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+
+
+
+Week of 29-Nov-2021
+Dan Hadley (drhadley@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+Conor Healy (healy19@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+
+
+
+Week of 06-Dec-2021
+Conor Healy (healy19@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Devin Mannix (mannix@illinois.edu)
+Vlad Iordache (iordach1@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+
+
+
+Week of 13-Dec-2021
+Tyler Pierson (tylerjp@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+Devin Mannix (mannix@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Daniel Abrams (dbabrams@illinois.edu)
+Michael Krasowski (krasows2@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+
+
+
+Week of 20-Dec-2021
+Devin Mannix (mannix@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Walt Kelly (wkelly@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+Tyler Pierson (tylerjp@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Allan Jones (alljones@illinois.edu)
+George Roadcap (roadcap@illinois.edu) -- Jennie Atkins (jatkins@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Steve Wilson (sdwilson@illinois.edu)
+
+
+
+Week of 27-Dec-2021
+Devin Mannix (mannix@illinois.edu) -- Walt Kelly (wkelly@illinois.edu)
+Dan Hadley (drhadley@illinois.edu) -- Michael Krasowski (krasows2@illinois.edu)
+Jennie Atkins (jatkins@illinois.edu) -- Tyler Pierson (tylerjp@illinois.edu)
+Steve Wilson (sdwilson@illinois.edu) -- Conor Healy (healy19@illinois.edu)
+Daniel Abrams (dbabrams@illinois.edu) -- Vlad Iordache (iordach1@illinois.edu)
+Allan Jones (alljones@illinois.edu) -- George Roadcap (roadcap@illinois.edu)
+
+
+
